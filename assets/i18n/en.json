@@ -367,6 +367,10 @@
   },
   "CMS_LANG": {
     "IT": "Italiano",
-    "EN": "English"
+    "EN": "English",
+    "ES": "Español",
+    "PT": "Português",
+    "FR": "Français",
+    "ZH": "中文"
   }
 }
