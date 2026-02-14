@@ -236,6 +236,14 @@
     "PASSWORD_MIN": "Password must be at least 8 characters",
     "ERROR": "Error during registration"
   },
+  "CMS_CONFIRM_EMAIL": {
+    "VERIFYING": "Verifying your email...",
+    "SUCCESS_TITLE": "Email confirmed!",
+    "SUCCESS_DESC": "Your account has been activated successfully. You can now log in.",
+    "GO_LOGIN": "Go to login",
+    "ERROR_TITLE": "Confirmation failed",
+    "GO_HOME": "Go to home"
+  },
   "CMS_ACCOUNT": {
     "TITLE": "My account",
     "PERSONAL_INFO": "Personal information",

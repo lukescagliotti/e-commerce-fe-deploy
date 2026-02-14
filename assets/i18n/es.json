@@ -236,6 +236,14 @@
     "PASSWORD_MIN": "La contraseña debe tener al menos 8 caracteres",
     "ERROR": "Error durante el registro"
   },
+  "CMS_CONFIRM_EMAIL": {
+    "VERIFYING": "Verificando tu email...",
+    "SUCCESS_TITLE": "¡Email confirmado!",
+    "SUCCESS_DESC": "Tu cuenta ha sido activada con éxito. Ya puedes iniciar sesión.",
+    "GO_LOGIN": "Ir al login",
+    "ERROR_TITLE": "Confirmación fallida",
+    "GO_HOME": "Ir al inicio"
+  },
   "CMS_ACCOUNT": {
     "TITLE": "Mi cuenta",
     "PERSONAL_INFO": "Información personal",

@@ -236,6 +236,14 @@
     "PASSWORD_MIN": "密码至少需要8个字符",
     "ERROR": "注册时出错"
   },
+  "CMS_CONFIRM_EMAIL": {
+    "VERIFYING": "正在验证您的邮箱...",
+    "SUCCESS_TITLE": "邮箱已确认！",
+    "SUCCESS_DESC": "您的账户已成功激活。现在可以登录了。",
+    "GO_LOGIN": "前往登录",
+    "ERROR_TITLE": "确认失败",
+    "GO_HOME": "返回首页"
+  },
   "CMS_ACCOUNT": {
     "TITLE": "我的账户",
     "PERSONAL_INFO": "个人信息",

@@ -236,6 +236,14 @@
     "PASSWORD_MIN": "Le mot de passe doit contenir au moins 8 caractères",
     "ERROR": "Erreur lors de l'inscription"
   },
+  "CMS_CONFIRM_EMAIL": {
+    "VERIFYING": "Vérification de l'email en cours...",
+    "SUCCESS_TITLE": "Email confirmé !",
+    "SUCCESS_DESC": "Votre compte a été activé avec succès. Vous pouvez maintenant vous connecter.",
+    "GO_LOGIN": "Aller à la connexion",
+    "ERROR_TITLE": "Confirmation échouée",
+    "GO_HOME": "Retour à l'accueil"
+  },
   "CMS_ACCOUNT": {
     "TITLE": "Mon compte",
     "PERSONAL_INFO": "Informations personnelles",
