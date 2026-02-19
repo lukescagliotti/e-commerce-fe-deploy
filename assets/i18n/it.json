@@ -184,7 +184,10 @@
     "TOTAL": "Totale",
     "PROCESSING": "Elaborazione...",
     "PAY_STRIPE": "Paga con Stripe",
-    "ERROR": "Errore durante il checkout"
+    "ERROR": "Errore durante il checkout",
+    "ADD_NEW_ADDRESS": "Usa un indirizzo diverso",
+    "NEW_ADDRESS": "Inserisci un nuovo indirizzo",
+    "USE_EXISTING_ADDRESS": "Torna agli indirizzi salvati"
   },
   "CMS_CHECKOUT_SUCCESS": {
     "TITLE": "Ordine completato!",

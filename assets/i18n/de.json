@@ -184,7 +184,10 @@
     "TOTAL": "Gesamt",
     "PROCESSING": "Wird verarbeitet...",
     "PAY_STRIPE": "Mit Stripe bezahlen",
-    "ERROR": "Fehler bei der Zahlung"
+    "ERROR": "Fehler bei der Zahlung",
+    "ADD_NEW_ADDRESS": "Andere Adresse verwenden",
+    "NEW_ADDRESS": "Neue Adresse eingeben",
+    "USE_EXISTING_ADDRESS": "Zurück zu gespeicherten Adressen"
   },
   "CMS_CHECKOUT_SUCCESS": {
     "TITLE": "Bestellung abgeschlossen!",

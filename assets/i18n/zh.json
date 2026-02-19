@@ -184,7 +184,10 @@
     "TOTAL": "合计",
     "PROCESSING": "处理中...",
     "PAY_STRIPE": "使用 Stripe 支付",
-    "ERROR": "结算时出错"
+    "ERROR": "结算时出错",
+    "ADD_NEW_ADDRESS": "使用其他地址",
+    "NEW_ADDRESS": "输入新地址",
+    "USE_EXISTING_ADDRESS": "返回已保存的地址"
   },
   "CMS_CHECKOUT_SUCCESS": {
     "TITLE": "订单完成！",
