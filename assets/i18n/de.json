@@ -431,7 +431,8 @@
     "DELETE_REVIEW_CONFIRM": "Diese Bewertung löschen?",
     "REQUIRED_FIELDS": "Pflichtfelder ausfüllen: Name, Slug und Preis",
     "SAVE_ERROR": "Fehler beim Speichern",
-    "LOAD_ERROR": "Fehler beim Laden des Produkts"
+    "LOAD_ERROR": "Fehler beim Laden des Produkts",
+    "CONVERTING": "Konvertierung..."
   },
   "CMS_LANG": {
     "IT": "Italiano",

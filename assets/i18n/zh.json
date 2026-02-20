@@ -431,7 +431,8 @@
     "DELETE_REVIEW_CONFIRM": "删除此评价？",
     "REQUIRED_FIELDS": "请填写必填字段：名称、Slug 和价格",
     "SAVE_ERROR": "保存时出错",
-    "LOAD_ERROR": "加载产品时出错"
+    "LOAD_ERROR": "加载产品时出错",
+    "CONVERTING": "转换中..."
   },
   "CMS_LANG": {
     "IT": "Italiano",

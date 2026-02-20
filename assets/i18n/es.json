@@ -431,7 +431,8 @@
     "DELETE_REVIEW_CONFIRM": "¿Eliminar esta reseña?",
     "REQUIRED_FIELDS": "Completa los campos obligatorios: Nombre, Slug y Precio",
     "SAVE_ERROR": "Error al guardar",
-    "LOAD_ERROR": "Error al cargar el producto"
+    "LOAD_ERROR": "Error al cargar el producto",
+    "CONVERTING": "Convirtiendo..."
   },
   "CMS_LANG": {
     "IT": "Italiano",

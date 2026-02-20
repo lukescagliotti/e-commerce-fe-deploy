@@ -431,7 +431,8 @@
     "DELETE_REVIEW_CONFIRM": "Delete this review?",
     "REQUIRED_FIELDS": "Fill required fields: Name, Slug and Price",
     "SAVE_ERROR": "Error while saving",
-    "LOAD_ERROR": "Error loading product"
+    "LOAD_ERROR": "Error loading product",
+    "CONVERTING": "Converting..."
   },
   "CMS_LANG": {
     "IT": "Italiano",

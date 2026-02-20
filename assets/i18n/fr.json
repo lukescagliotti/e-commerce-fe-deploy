@@ -431,7 +431,8 @@
     "DELETE_REVIEW_CONFIRM": "Supprimer cet avis ?",
     "REQUIRED_FIELDS": "Remplissez les champs obligatoires : Nom, Slug et Prix",
     "SAVE_ERROR": "Erreur lors de l'enregistrement",
-    "LOAD_ERROR": "Erreur lors du chargement du produit"
+    "LOAD_ERROR": "Erreur lors du chargement du produit",
+    "CONVERTING": "Conversion en cours..."
   },
   "CMS_LANG": {
     "IT": "Italiano",

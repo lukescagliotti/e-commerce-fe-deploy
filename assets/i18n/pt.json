@@ -431,7 +431,8 @@
     "DELETE_REVIEW_CONFIRM": "Excluir esta avaliação?",
     "REQUIRED_FIELDS": "Preencha os campos obrigatórios: Nome, Slug e Preço",
     "SAVE_ERROR": "Erro ao salvar",
-    "LOAD_ERROR": "Erro ao carregar o produto"
+    "LOAD_ERROR": "Erro ao carregar o produto",
+    "CONVERTING": "Convertendo..."
   },
   "CMS_LANG": {
     "IT": "Italiano",
