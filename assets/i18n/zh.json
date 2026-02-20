@@ -376,7 +376,11 @@
     "ROLE_ADMIN": "管理员",
     "ROLE_SUPPORT": "客服",
     "NEW_PRODUCT": "新产品",
-    "EDIT": "编辑"
+    "EDIT": "编辑",
+    "ROLE_FUNNEL_ANONIMO": "匿名",
+    "ROLE_SUPER_ADMIN": "超级管理员",
+    "ROLE_UPDATE_ERROR": "更新角色时出错",
+    "PAGINATION_OF": "共"
   },
   "CMS_PRODUCT_FORM": {
     "CREATE_TITLE": "新产品",

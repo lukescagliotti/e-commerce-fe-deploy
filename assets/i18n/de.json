@@ -376,7 +376,11 @@
     "ROLE_ADMIN": "Admin",
     "ROLE_SUPPORT": "Support",
     "NEW_PRODUCT": "Neues Produkt",
-    "EDIT": "Bearbeiten"
+    "EDIT": "Bearbeiten",
+    "ROLE_FUNNEL_ANONIMO": "Anonym",
+    "ROLE_SUPER_ADMIN": "Super Admin",
+    "ROLE_UPDATE_ERROR": "Fehler beim Aktualisieren der Rolle",
+    "PAGINATION_OF": "von"
   },
   "CMS_PRODUCT_FORM": {
     "CREATE_TITLE": "Neues Produkt",
