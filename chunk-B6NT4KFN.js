@@ -1,0 +1,1 @@
+function R(n,r,i){let s=n?.status;if(s===0)return r.instant("CMS_COMMON.NETWORK_ERROR");if(s===401&&i)return r.instant(i);let t=n?.error?.message;return Array.isArray(t)&&t.length?t.join(". "):typeof t=="string"&&t?t:typeof s=="number"&&s>=500?r.instant("CMS_COMMON.SERVER_ERROR"):n instanceof Error&&n.message?n.message:r.instant("CMS_COMMON.GENERIC_ERROR")}export{R as a};

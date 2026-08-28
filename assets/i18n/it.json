@@ -469,5 +469,10 @@
     "PAY": "Vai al pagamento",
     "PROCESSING": "Attendi…",
     "ERROR": "Impossibile avviare il pagamento"
+  },
+  "CMS_COMMON": {
+    "NETWORK_ERROR": "Errore di connessione. Controlla la rete e riprova.",
+    "SERVER_ERROR": "Errore del server. Riprova tra poco.",
+    "GENERIC_ERROR": "Si è verificato un errore. Riprova."
   }
 }
