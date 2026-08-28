@@ -119,13 +119,20 @@
     "ADDED_SUCCESS": "Prodotto aggiunto al carrello!",
     "ADD_ERROR": "Errore nell'aggiunta al carrello",
     "CATEGORY": "Categoria:",
-    "DETAILS": "Dettagli prodotto"
+    "DETAILS": "Dettagli prodotto",
+    "RENT_ONLY": "Solo affitto",
+    "RENT_TITLE": "Affitta questo prodotto",
+    "RENT_RECURRING": "Costo ricorrente",
+    "RENT_MIN_NOTE": "Impegno minimo: {{n}} rinnovo/i prima di poter disdire",
+    "RENT_NOW": "Affitta ora"
   },
   "CMS_PRODUCT_CARD": {
     "VIEW_DETAILS": "Vedi dettagli",
     "FEATURED": "Featured",
     "AVAILABLE": "disponibili",
-    "OUT_OF_STOCK": "Esaurito"
+    "OUT_OF_STOCK": "Esaurito",
+    "ALSO_RENT": "Anche in affitto",
+    "RENT_ONLY": "Solo affitto"
   },
   "CMS_CART": {
     "TITLE": "Il tuo carrello",
@@ -446,5 +453,21 @@
     "FR": "Français",
     "ZH": "中文",
     "DE": "Deutsch"
+  },
+  "RENT_CHECKOUT": {
+    "TITLE": "Checkout affitto",
+    "SUBTITLE": "Stai attivando un servizio di affitto ricorrente, separato dal carrello acquisti.",
+    "EMPTY": "Nessun affitto selezionato.",
+    "BROWSE": "Sfoglia i prodotti",
+    "PLAN": "Piano",
+    "MIN_NOTE": "Impegno minimo: {{n}} rinnovo/i",
+    "RECURRING": "Costo ricorrente",
+    "SUBSCRIPTION_INFO": "Verrà creato un abbonamento che si rinnova automaticamente. Potrai disdirlo dopo il numero minimo di rinnovi.",
+    "ADDRESS": "Indirizzo di consegna",
+    "NO_ADDRESS": "Non hai indirizzi salvati.",
+    "ADD_ADDRESS": "Aggiungine uno",
+    "PAY": "Vai al pagamento",
+    "PROCESSING": "Attendi…",
+    "ERROR": "Impossibile avviare il pagamento"
   }
 }
